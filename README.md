@@ -24,7 +24,7 @@ Actions Developer Kit.
 * [Link Action Use Case](https://www.tracelink.com/resources/tracelink-university/use-case-xtt-link-actions)
 * [Link Action Development Getting Started Guide](https://www.tracelink.com/resources/tracelink-university/guide-xtt-link-actions)
 
-## Contriutions
+## Contributions
 
 Contributions are welcome in the form of Pull Requests and any suggestions are
 welcome as Issues.
