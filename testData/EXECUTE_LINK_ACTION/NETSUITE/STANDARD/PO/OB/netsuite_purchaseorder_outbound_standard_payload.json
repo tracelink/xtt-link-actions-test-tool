@@ -1,0 +1,100 @@
+{
+    "billingAddress": {
+        "addr1": "125050 Part Potomac Ave #120",
+        "addr2": "8038 Granville Street",
+        "addrPhone": "+11980786578",
+        "city": "Pune",
+        "country": {
+            "refName": "India"
+        },
+        "state": "Maharashtra",
+        "zip": "411006"
+    },
+    "currency": {
+        "exchangeRate": 1,
+        "symbol": "USD"
+    },
+    "entity": {
+        "addressBook": {
+            "items": [
+                {
+                    "addressBookAddress": {
+                        "addr1": "125050 Part Potomac Ave #120",
+                        "addr2": "8038 Granville Street",
+                        "addrPhone": "+11980786578",
+                        "city": "Pune",
+                        "country": {
+                            "refName": "India"
+                        },
+                        "state": "Maharashtra",
+                        "zip": "411006"
+                    }
+                }
+            ]
+        },
+        "contact": {
+            "email": "testuser@xyz.com",
+            "entityId": "Test User"
+        },
+        "entityId": "Mankind Pharma",
+        "externalId": "28",
+        "fax": "+117825934"
+    },
+    "item": {
+        "items": [
+            {
+                "amount": 500,
+                "description": "200 ml",
+                "item": {
+                    "refName": "CALDIKIND"
+                },
+                "quantity": 100,
+                "rate": 50
+            },
+            {
+                "amount": 2000,
+                "item": {
+                    "refName": "BCG Vaccine"
+                },
+                "quantity": 200,
+                "rate": 100
+            }
+        ]
+    },
+    "shipDate": "2024-03-26",
+    "shipTo": {
+        "addressBook": {
+            "items": [
+                {
+                    "addressBookAddress": {
+                        "addr1": "1011 Broad Street",
+                        "addr2": "180 7th St",
+                        "addrPhone": "+11980786523",
+                        "city": "Mumbai",
+                        "country": {
+                            "refName": "India"
+                        },
+                        "state": "Maharashtra",
+                        "zip": "400001"
+                    }
+                }
+            ]
+        },
+        "companyName": "DHL",
+        "contact": {
+            "email": "testuser@xyz.com",
+            "entityId": "Test User"
+        },
+        "entityId": "3 DHL",
+        "externalId": "29",
+        "terms": {
+            "discountPercentDateDriven": 20
+        }
+    },
+    "terms": {
+        "discountPercentDateDriven": 20,
+        "dueNextMonthIfWithinDays": 50,
+        "name": "terms2"
+    },
+    "tranDate": "2024-03-26"
+} 

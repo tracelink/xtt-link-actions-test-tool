@@ -1,0 +1,148 @@
+{
+    "billAddress": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "billAddressList": {
+        "id": "6"
+    },
+    "billingAddress": {
+        "addr1": "baner",
+        "addr2": "stree 2",
+        "addressee": "BM Ltd.",
+        "addrPhone": "+1235345",
+        "addrText": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+        "attention": "Tracelink",
+        "city": "pune",
+        "country": {
+            "id": "IN",
+            "refName": "India"
+        },
+        "override": false,
+        "state": "Maharashtre",
+        "zip": "411002"
+    },
+    "billingAddress_text": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "canBeUnapproved": true,
+    "canHaveStackable": false,
+    "checkNumber": "PO123",
+    "class": {
+        "id": "3"
+    },
+    "createdDate": "2023-12-05T09:39:00Z",
+    "currency": {
+        "symbol": "USD"
+    },
+    "customForm": {
+        "id": "68"
+    },
+    "department": {
+        "id": "1"
+    },
+    "discountItem": {
+        "id": "-6"
+    },
+    "discountRate": 0.0,
+    "discountTotal": 0.0,
+    "endDate": "2024-03-31",
+    "entity": {
+        "id": "24"
+    },
+    "exchangeRate": 1.0,
+    "handlingCost": 0.0,
+    "handlingMode": {
+        "id": "SAVE_ONLY",
+        "refName": "Save Only"
+    },
+    "id": "7",
+    "item": {
+        "items": [
+            {
+                "amount": 5000.0,
+                "commitInventory": {
+                    "id": "1"
+                },
+                "commitmentFirm": false,
+                "excludeFromRateRequest": false,
+                "isClosed": false,
+                "isOpen": true,
+                "item": {
+                    "refName": "CUBICIN"
+                },
+                "itemType": {
+                    "id": "InvtPart",
+                    "refName": "InvtPart"
+                },
+                "marginal": false,
+                "price": {
+                    "id": "-1"
+                },
+                "printItems": false,
+                "quantity": 100.0,
+                "quantityAvailable": 0.0,
+                "rate": 50.0,
+                "units": "2"
+            },
+            {
+                "amount": 10.0,
+                "commitmentFirm": false,
+                "excludeFromRateRequest": false,
+                "isClosed": false,
+                "isOpen": true,
+                "item": {
+                    "refName": "Service Item",
+                    "id": "17"
+                },
+                "itemSubtype": {
+                    "id": "Sale",
+                    "refName": "Sale"
+                },
+                "itemType": {
+                    "id": "NonInvtPart",
+                    "refName": "NonInvtPart"
+                },
+                "price": {
+                    "id": "-1",
+                    "refName": ""
+                },
+                "quantity": 1.0,
+                "rate": 10.0,
+                "units": "1"
+            }
+        ]
+    },
+    "location": {
+        "id": "9"
+    },
+    "memo": "memo",
+    "nextBill": "2024-03-20",
+    "orderStatus": {
+        "id": "B"
+    },
+    "otherRefNum": "PO123",
+    "partner": {
+        "id": "26"
+    },
+    "prevDate": "2024-03-20",
+    "previousOpportunity": "612",
+    "salesEffectiveDate": "2024-03-20",
+    "shipAddress": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "shipAddressList": {
+        "id": "6"
+    },
+    "shipComplete": true,
+    "shipDate": "2024-03-20",
+    "shipIsResidential": false,
+    "shipOverride": false,
+    "shippingAddress_text": "Tracelink \nBM Ltd.\nbaner\nstree 2\npune Maharashtre 411002\nIndia",
+    "shippingCostOverridden": true,
+    "startDate": "2024-03-21",
+    "subsidiary": {
+        "id": "1"
+    },
+    "subtotal": 5000.0,
+    "terms": {
+        "name": "terms2"
+    },
+    "toBeEmailed": false,
+    "toBeFaxed": false,
+    "toBePrinted": false,
+    "total": 5000.0
+}
